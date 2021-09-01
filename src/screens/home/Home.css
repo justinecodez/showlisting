@@ -1,0 +1,26 @@
+.upcoming h5 {
+  background-color: #ff9999;
+  padding: 8px;
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.released-movies {
+  display: flex;
+}
+
+.released-movies .movies {
+  width: 76%;
+  margin: 16px;
+}
+
+.released-movies .filter {
+  width: 24%;
+  margin: 16px;
+}
+
+.selector #demo-simple-select-label {
+  position: relative;
+}
